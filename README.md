@@ -106,9 +106,9 @@
     <span>&nbsp;</span>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <span>&nbsp;</span>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-    <span>&nbsp;</span>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <span>&nbsp;</span>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
     <span>&nbsp;</span>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"  title="Bash"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
