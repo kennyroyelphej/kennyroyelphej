@@ -36,7 +36,7 @@
     <span>&nbsp;</span>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"  title="SCSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <span>&nbsp;</span>
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"  title="Dart"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"  title="Dart"> <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="sass" width="40" height="40"/> </a>
 </p>
 <br>
 
